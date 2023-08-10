@@ -93,7 +93,7 @@ a:hover{
 .bottom-cloud {
     position: absolute;
     left: 0px;
-    margin-top: 0px;;
+    margin-top: 0px;
 }
 
 .top-container {
@@ -102,6 +102,7 @@ a:hover{
 
 .middle-container {
     margin: auto;
+    background-color: #e2edf4;
 
 }
 
